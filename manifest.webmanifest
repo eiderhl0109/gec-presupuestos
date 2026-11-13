@@ -1,0 +1,18 @@
+{
+  "id": "./",
+  "name": "GEC.BCN Presupuestos",
+  "short_name": "GEC.BCN",
+  "description": "Presupuestos de albañilería por voz, en PDF y por WhatsApp.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f2f2f7",
+  "theme_color": "#f2f2f7",
+  "categories": ["business"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
